@@ -1,0 +1,9 @@
+c:\users\maxpr\OneDrive\Projects\Server Verify\Server Verify\bin\Debug\MaxServer.exe.config
+c:\users\maxpr\OneDrive\Projects\Server Verify\Server Verify\bin\Debug\MaxServer.exe
+c:\users\maxpr\OneDrive\Projects\Server Verify\Server Verify\bin\Debug\MaxServer.pdb
+c:\users\maxpr\OneDrive\Projects\Server Verify\Server Verify\obj\Debug\Server Verify.csprojResolveAssemblyReference.cache
+c:\users\maxpr\OneDrive\Projects\Server Verify\Server Verify\obj\Debug\Server_Verify.Form1.resources
+c:\users\maxpr\OneDrive\Projects\Server Verify\Server Verify\obj\Debug\Max_Server.Properties.Resources.resources
+c:\users\maxpr\OneDrive\Projects\Server Verify\Server Verify\obj\Debug\Server Verify.csproj.GenerateResource.Cache
+c:\users\maxpr\OneDrive\Projects\Server Verify\Server Verify\obj\Debug\MaxServer.exe
+c:\users\maxpr\OneDrive\Projects\Server Verify\Server Verify\obj\Debug\MaxServer.pdb
