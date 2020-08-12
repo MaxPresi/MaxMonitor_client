@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25123.0
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server Verify", "Server Verify\Server Verify.csproj", "{9ADE6668-27F5-468C-9E9E-9240816D94F4}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxMonitor", "Server Verify\MaxMonitor.csproj", "{9ADE6668-27F5-468C-9E9E-9240816D94F4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7524E538-BBD2-46EC-8DD5-22659CE1D89D}
 	EndGlobalSection
 EndGlobal

@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // As informações gerais sobre um assembly são controladas por
 // conjunto de atributos. Altere estes valores de atributo para modificar as informações
 // associada a um assembly.
-[assembly: AssemblyTitle("Server Verify")]
-[assembly: AssemblyDescription("Verificador de Conexão de Servidores Remotos")]
+[assembly: AssemblyTitle("MaxMonitor")]
+[assembly: AssemblyDescription("Aplicativo de monitoramento e inventário de PCs e Servidores")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("TopInfo")]
-[assembly: AssemblyProduct("Server Verify")]
-[assembly: AssemblyCopyright("Copyright ©  2016")]
+[assembly: AssemblyCompany("MaxPresi")]
+[assembly: AssemblyProduct("MaxPresi")]
+[assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -32,5 +32,5 @@ using System.Runtime.InteropServices;
 // É possível especificar todos os valores ou usar como padrão os Números da Versão e da Revisão 
 // utilizando o "*" como mostrado abaixo:
 // [assembly: AssemblyVersion("1.0.*")]
-[assembly: AssemblyVersion("1.7.2.0")]
-[assembly: AssemblyFileVersion("1.7.2.0")]
+[assembly: AssemblyVersion("0.0.0.1")]
+[assembly: AssemblyFileVersion("0.0.0.1")]
