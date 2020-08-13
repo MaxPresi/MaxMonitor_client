@@ -1,5 +1,0 @@
-C:\Users\raphael.aracelli\OneDrive\Projects\VisualStudio\MaxMonitor\Server Verify\obj\Debug\MaxMonitor.csprojAssemblyReference.cache
-C:\Users\raphael.aracelli\OneDrive\Projects\VisualStudio\MaxMonitor\Server Verify\obj\Debug\Server_Verify.Form1.resources
-C:\Users\raphael.aracelli\OneDrive\Projects\VisualStudio\MaxMonitor\Server Verify\obj\Debug\MaxMonitor.csproj.GenerateResource.cache
-C:\Users\raphael.aracelli\OneDrive\Projects\VisualStudio\MaxMonitor\Server Verify\obj\Debug\MaxMonitor.Properties.Resources.resources
-C:\Users\raphael.aracelli\OneDrive\Projects\VisualStudio\MaxMonitor\Server Verify\obj\Debug\MaxMonitor.csproj.CoreCompileInputs.cache
