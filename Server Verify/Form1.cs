@@ -28,10 +28,8 @@ namespace Server_Verify
         {
             this.WindowState = FormWindowState.Minimized;
             BackgroundWorker.RunWorkerAsync();
-            notifyIcon1.ShowBalloonTip(100);
+            BARIcon.ShowBalloonTip(100);
         }
-        string PCName, PCTag, PCInfo, OSVersion, RAMInfo, RAMTotal, RAMUsage, CPUInfo, CPUUsage, 
-            DISKInfo, DISKTotal, DISKFree, DISKUsage, EventErrors, AVReport, Softwares, Users;
 
         [DllImport("wininet.dll")]
         private extern static bool InternetGetConnectedState(out int Description, int ReservedValue);
@@ -50,10 +48,12 @@ namespace Server_Verify
 
         private void UpdateBtn_Click(object sender, EventArgs e)
         {
-           
+            BackgroundWorker.CancelAsync();
+            Thread.Sleep(2000);
+            BackgroundWorker.RunWorkerAsync();
         }
 
-        private void notifyIcon1_MouseDoubleClick_1(object sender, MouseEventArgs e)
+        private void BARIcon_MouseDoubleClick_1(object sender, MouseEventArgs e)
         {
             WindowState = FormWindowState.Normal;
         }
@@ -64,7 +64,7 @@ namespace Server_Verify
             while (!worker.CancellationPending)
             {
                 
-                worker.ReportProgress(0);
+                
             }
         }
     }
