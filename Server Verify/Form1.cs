@@ -36,8 +36,7 @@ namespace Server_Verify
 
         public static bool IsConnected()
         {
-            int Description;
-            return InternetGetConnectedState(out Description, 0);
+            return InternetGetConnectedState(out int Description, 0);
         }
 
         private void SairBtn_Click(object sender, EventArgs e)
