@@ -36,7 +36,7 @@ namespace MaxMonitor.Métodos
             return ("GNER","GNER");
         }
 
-        public static (string Bios, string Tag) Bios()
+        public static (string Version, string Tag) Bios()
         {
             ManagementObjectSearcher ObjBios = new ManagementObjectSearcher("root\\CIMV2", "SELECT * FROM Win32_BIOS");
             foreach (ManagementObject biobject in ObjBios.Get())
