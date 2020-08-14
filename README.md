@@ -1,2 +1,2 @@
 # MaxMonitor
- Programa para monitoramento e inventário da PCs e servidores
+ Programa para monitoramento e inventário de PCs e servidores
